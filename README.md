@@ -13,7 +13,7 @@ Drop `Requestr.vala` file into your project `utils` directory and add the follow
 ```sh
 --pkg lisoup-2.4 --thread
 ```
-Create new instace of Requestr as following
+Create new instance of Requestr as following
 ```vala
 var request = new Requestr("GET", "http://github.com");
 ```
